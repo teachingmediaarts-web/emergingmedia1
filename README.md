@@ -1,20 +1,21 @@
 # emergingmedia1
 This hands-on production course introduces students to the practical fundamentals of visual studies, web design, digital graphics and illustration.
 
-IMA 750 Emerging Media I
-Tuesday 2-5:30pm, Hunter North 544, Ricardo Miranda
-email: rmira@hunter.cuny.edu
+**IMA 750 Emerging Media I**
+Mondays 5:30pm-8:30pm, Hunter North 544, Betty Yu
+email: bettyyu21@gmail.com / betty.yu@hunter.cuny.edu
 Office Hours: Tuesday 6:30-8:30pm or by appointment
 This hands-on production course introduces students to the practical fundamentals of visual studies, design, digital graphics and illustration. It is a foundations course in 2D design, illustration and digital imaging. Students are introduced to a range of media production equipment and techniques, including: The history of design, computer graphics, illustration and new media; Issues in visual studies; Image composition, framing, and layout; Typography and text/image relationships; and Basic imaging and vector based illustration software.
 
-Expected Learning Outcomes:
+**Expected Learning Outcomes:**
 Analyze and distinguish concepts in visual communication, design, computer graphics, illustration, photography, and new media
 Explain and discuss contemporary issues in image production and new media
 Manipulate raster graphics through the use of compositing, composition, framing, layout
 Create vector illustrations and apply design principles to typography and text/image relationships
 Create basic animations and motion graphics
 Plan and apply a comprehensive understanding of HTML and CSS to web design
-Method of Evaluation:
+
+**Method of Evaluation:**
 Expect to spend 4-6 hours per week outside of class doing the course work
 1. Course Blog (10% of grade): Using either the F&M Department server or a freely available platform such as GitHub create and maintain a weekly blog (one entry per week) that relates directly to the course weekly analytical readings. Blog entries should be brief 1-3 paragraphs that reflect upon the reading, i.e. what were points of interest and why. Did you take anything away from the reading positive or negative. If more than one reading is assigned, you are welcome to select one or write about each. Email your blog link one day before the second class.
 
@@ -32,10 +33,10 @@ Create a course index page with links to exercises and projects.
 5. Reading Discussion Leader (10% of grade): Each student will take the lead on the assigned reading and prepare an in-depth reflection to launch discussion.
 Course Projects will be evaluated by three components equally: Creativity, Technical Breadth, Professional Presentation. Completed projects should reflect a sense of ambition and dedication toward realization.
 
-  Required Materials:
+Required Materials:
     USB flash drive or external hard drive. BACK UP ALL YOUR WORK ON A DAILY/WEEKLY BASIS!
 
-Hunter Assistance & Policies
+**Hunter Assistance & Policies**
 Computer Labs
 The schedule for the Film & labs will be posted outside each entrance - HN 432 and 436. Other labs available: ICIT 10th Floor labs - HN 1001A/D, TH405.
 

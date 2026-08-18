@@ -1,5 +1,6 @@
 # emergingmedia1
 This hands-on production course introduces students to the practical fundamentals of visual studies, web design, digital graphics and illustration.
+<a href="assignment1.html">Assignment 1 e</a>
 
 **IMA 750 Emerging Media I**
 Mondays 5:30pm-8:30pm, Hunter North 544, Betty Yu

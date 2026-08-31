@@ -6,7 +6,7 @@ Schedule:
 Mondays, 5:30-8:20pm (in-person) 
 Room: 544 Grad Lab (North Bldg)
 Office Hours: Room 474 (North), Mondays 4:30-5:30pm, Tuesdays 2-4pm or by appt. (in person or online zoom)
-Instructor:
+<br> Instructor:
 Betty Yu, MFA 
 bettyyu21@gmail.com
 betty.yu@hunter.cuny.edu

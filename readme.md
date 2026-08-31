@@ -1,6 +1,7 @@
 IMA 75000 Sect. 2 
 EMERGING MEDIA 1
 Hunter College 
+
 Schedule:  
 Mondays, 5:30-8:20pm (in-person) 
 Room: 544 Grad Lab (North Bldg)
